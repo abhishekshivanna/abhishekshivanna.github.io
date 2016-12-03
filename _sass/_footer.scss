@@ -27,3 +27,15 @@ footer {
   padding: $footer-padding;
   text-align: center;
 }
+
+footer div {
+  display: inline;
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
